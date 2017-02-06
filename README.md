@@ -4,7 +4,7 @@ Shape Finder is a final BSc project done in 2014 at King's College London. The a
 
 ## Manual
 
-<p align="center"><img src="https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/1_LoadImage.png" alt="Load Image"/></p>
+![Load Image](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/1_LoadImage.png)
 
 Click `Load Image` button to look for images.
 
