@@ -30,7 +30,7 @@ Select the location and amount of random walks and click `Add`.
 
 ![Result](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/7_GetResult.png)
 
-Once all random walks are finished the result will appear.
+Once all random walks are finished the result will appear (background is treated as a separate shape).
 
 ## License
 
