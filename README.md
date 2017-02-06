@@ -4,33 +4,33 @@ Shape Finder is a final BSc project done in 2014 at King's College London. The a
 
 ## Manual
 
+<p align="center"><img src="https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/1_LoadImage.png" alt="Load Image"/></p>
 
+Click `Load Image` button to look for images.
 
-1. Click `Load Image` button to look for images.
+![Image Viewer](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/2_ImageViewer.png)
 
+The image will be loaded in the image viewer.
 
+![Apply Operation](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/3_ApplyOperation.png)
 
-2. The image will be loaded in the image viewer.
+Optionally, choose one of the operations from the Tools pane.
 
+![Apply Edge Detector](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/4_ApplyEdgeDetector.png)
 
+Apply one of the edge detectors from the Operators pane.
 
-3. Optionally, choose one of the operations from the Tools pane.
+![Enable Traversal](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/5_EnableTraversal.png)
 
+In Traversal pane, tick `Enable` to turn on random walks.
 
+![Add Random Walks](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/6_AddRandomWalks.png)
 
-4. Apply one of the edge detectors from the Operators pane.
+Select the location and amount of random walks and click `Add`.
 
+![Result](https://raw.githubusercontent.com/michaelpiskozub/Shape-Finder/master/screenshots/7_GetResult.png)
 
-
-5. In Traversal pane, tick `Enable` to turn on random walks.
-
-
-
-6. Select the location and amount of random walks and click `Add`.
-
-
-
-7. Once all random walks are finished the result will appear.
+Once all random walks are finished the result will appear.
 
 ## License
 
